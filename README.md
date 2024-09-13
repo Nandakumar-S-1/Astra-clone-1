@@ -1,1 +1,1 @@
-https://bewinraphel.github.io/responsive-astra/
+ https://nandakumar-s-1.github.io/Astra-clone-1/
